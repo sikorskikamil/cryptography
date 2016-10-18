@@ -1,0 +1,10 @@
+git@github.com:sikorskikamil/cryptography.git
+
+git remote -v - serwery
+git add * - dodanie wszystkich plików 
+git commit -m 'nazwa comita'
+git push [nazwa] master 
+git fetch - pobiera nowsze
+git pull - pobiera ze zmianami
+git log
+git reset --hard as.... z loga
